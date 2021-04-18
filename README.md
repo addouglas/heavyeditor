@@ -1,2 +1,2 @@
-# heavyeditor
-Flat File Editor
+# Heavy Eeditor
+An open source flat file editor
